@@ -19,6 +19,6 @@ Base = [('2013000 16010000','Alimentos'),
 #classes = nltk.pos_tag(tokens)
 
 # método de detecção de entidades só funciona com palavras
-# entidades = nltk.chunk.ne_chunk(num)
+# entidades = nltk.chunk.ne_chunk(num)...
 
 print(Base[0])
